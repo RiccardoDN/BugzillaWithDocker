@@ -1,0 +1,3 @@
+$answer{'ADMIN_EMAIL'} = '<myemailaddress@mail.it>';
+$answer{'ADMIN_REALNAME'} = '<name>';
+$answer{'ADMIN_PASSWORD'} = '<password>';
